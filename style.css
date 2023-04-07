@@ -1,0 +1,85 @@
+body {
+    background-color: #3D9970;
+    font-family: 'Smokum', cursive;
+    text-indent: 2;
+}
+
+hr {
+width: 50%;
+color: #111111;   
+height: 50%;
+border:solid 2px;
+border: dotted;
+background-color: #85144b;
+
+
+   
+     }
+    
+
+   img {
+    width: 250px;
+    height: 250px;
+    box-shadow: 10px 5px 5px #FF851B
+   } 
+
+
+
+
+    .selmani {
+        position: relative;
+        left: 9cm;
+        border: solid 0;
+        bottom: 1cm;
+    }
+
+
+    .une{
+
+    
+    height: 3cm;
+    width: 25cm;
+    position: relative;
+    left: 12cm;
+   
+    
+    
+    }
+
+
+    .ti {
+        position: relative;    
+        right: 1.5cm;
+    }
+
+    .art {
+        color: #85144b;
+        border: solid 1px;
+        background-color: bisque;
+    }
+    .art:hover {
+        color: aqua;
+        height: 3px;
+        width: 3px;
+        border: solid 1px;
+        background-color: #111111;
+    }
+    
+        
+ .une:hover
+  {
+    color: aqua;
+    font-size: large;
+
+ }
+ h3:hover { color: #85144b;
+    font-size: 0.6cm;   
+ }
+ .bujar
+ {
+    position: relative;
+    left: 23cm;
+    bottom: 2cm;
+  
+ }
+  
